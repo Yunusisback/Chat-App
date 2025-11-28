@@ -1,13 +1,27 @@
-# React + Vite
+# Real-Time Chat App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern messaging application built with **React 19** and **Firebase**. This project demonstrates real-time data synchronization and secure user authentication, styled entirely with **SASS (SCSS)** for a custom and maintainable design system.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![chat-app](https://github.com/user-attachments/assets/b008754e-9771-4f6d-946e-e04e8fc5b5c3)
 
-## Expanding the ESLint configuration
+## Key Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# Chat-App
+* **Real-Time Messaging:** Instant message delivery and synchronization using Firebase Firestore.
+* **Authentication:** Secure user login and registration flows via Firebase Auth.
+* **Custom Styling:** Professional and modular CSS architecture using **SASS**.
+* **Responsive Design:** Optimized layout for seamless experience on mobile and desktop.
+* **Modern Tooling:** Powered by Vite for lightning-fast development.
+
+## Tech Stack
+
+| Category | Technologies |
+| :--- | :--- |
+| **Framework** | React 19 (Vite) |
+| **Backend (BaaS)** | Firebase (Auth, Firestore) |
+| **Styling** | SASS (SCSS) |
+| **Language** | JavaScript (ES6+) |
+
+## Contributing 🤝
+Contributions, issues, and feature requests are welcome!
+
